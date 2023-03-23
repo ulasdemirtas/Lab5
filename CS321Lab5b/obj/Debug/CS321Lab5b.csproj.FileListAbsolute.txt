@@ -1,0 +1,11 @@
+C:\Users\ulasd\source\repos\CS321Lab5b\CS321Lab5b\bin\Debug\CS321Lab5b.exe.config
+C:\Users\ulasd\source\repos\CS321Lab5b\CS321Lab5b\bin\Debug\CS321Lab5b.exe
+C:\Users\ulasd\source\repos\CS321Lab5b\CS321Lab5b\bin\Debug\CS321Lab5b.pdb
+C:\Users\ulasd\source\repos\CS321Lab5b\CS321Lab5b\obj\Debug\CS321Lab5b.csproj.AssemblyReference.cache
+C:\Users\ulasd\source\repos\CS321Lab5b\CS321Lab5b\obj\Debug\CS321Lab5b.csproj.SuggestedBindingRedirects.cache
+C:\Users\ulasd\source\repos\CS321Lab5b\CS321Lab5b\obj\Debug\CS321Lab5b.Form1.resources
+C:\Users\ulasd\source\repos\CS321Lab5b\CS321Lab5b\obj\Debug\CS321Lab5b.Properties.Resources.resources
+C:\Users\ulasd\source\repos\CS321Lab5b\CS321Lab5b\obj\Debug\CS321Lab5b.csproj.GenerateResource.cache
+C:\Users\ulasd\source\repos\CS321Lab5b\CS321Lab5b\obj\Debug\CS321Lab5b.csproj.CoreCompileInputs.cache
+C:\Users\ulasd\source\repos\CS321Lab5b\CS321Lab5b\obj\Debug\CS321Lab5b.exe
+C:\Users\ulasd\source\repos\CS321Lab5b\CS321Lab5b\obj\Debug\CS321Lab5b.pdb
